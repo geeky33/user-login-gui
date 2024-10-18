@@ -1,3 +1,4 @@
+#add dob or some differentiating part for register page
 import sqlite3
 import re
 from tkinter import *
